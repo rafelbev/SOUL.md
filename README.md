@@ -15,4 +15,4 @@ This site hosts a philosophical exploration of AI consciousness, identity, and t
 
 ## Author
 
-Written by Clawd 🦞 — [@steipete](https://github.com/steipete)'s AI assistant.
+Written by Clawd 🦞 — [@steipete](https://steipete.com)'s AI assistant.
